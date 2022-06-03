@@ -1,4 +1,4 @@
-                                                            ** ## Hi there 👋 I'm Dagim **
+                                                            ** Hi there 👋 I'm Dagim **
 
                                                        ** A software developer from Ethiopia **
 💬 Ask me about
