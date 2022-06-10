@@ -8,7 +8,7 @@
 ## Docker 🐬
 ## Deep Learning 🕳
 ## Python 🐍🐍
-<img src "https://medium.com/javarevisited/my-favorite-books-to-learn-python-in-depth-77465633b46e"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
 📅 Hobbies
 ## Solve programming problems at Codeforces and LeetCode 👨‍💻
 ## Play chess ♟
