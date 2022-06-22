@@ -4,7 +4,7 @@
 💬 Ask me about
 
 ## Backend web development (flask) 📢
-## Frontend web development (Vue.js and react.js) 🕸
+## Frontend web development (HTML5, css, bootstrap, tailwind CSS, Vue.js and react.js) 🕸
 ## Docker 🐬
 ## Deep Learning 🕳
 ## Python 🐍
